@@ -12,7 +12,12 @@
       <li>Vitest</li>
       <li>Cypress</li>
     </ul>
-    <a href="" target="_blank" rel="noopener noreferrer">zum Code auf Github</a>
+    <a
+      href="https://github.com/tabeshian/vue-quiz"
+      target="_blank"
+      rel="noopener noreferrer"
+      >zum Code auf Github</a
+    >
   </section>
 </template>
 
