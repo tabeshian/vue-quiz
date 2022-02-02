@@ -33,7 +33,7 @@ npm run test:e2e # or `npm run test:e2e:ci` for headless testing
 npm run lint
 ```
 
-## Spin up webserver and run app with docker
+### Spin up webserver and run app with Docker
 
 ```sh
 docker-compose up
