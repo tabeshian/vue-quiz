@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply focus:outline-none;
+  }
+
+  html,
+  body {
+    @apply h-screen overflow-hidden bg-gray-800 text-white;
+  }
+}
